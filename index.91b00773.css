@@ -1,0 +1,2 @@
+body{box-sizing:border-box;margin:0}.stars{padding:2px;display:flex}.stars__star{background-image:url(star.822d561e.svg);background-repeat:no-repeat;background-size:contain;width:13px;height:12px;margin:0;padding:0;line-height:1;&:not(:last-child){margin-right:7px}}.stars--1 .stars__star:nth-child(-n+1),.stars--2 .stars__star:nth-child(-n+2),.stars--3 .stars__star:nth-child(-n+3),.stars--4 .stars__star:nth-child(-n+4),.stars--5 .stars__star:nth-child(-n+5){background-image:url(star-active.edda4c43.svg)}
+/*# sourceMappingURL=index.91b00773.css.map */
